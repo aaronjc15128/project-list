@@ -4,6 +4,9 @@ A list of my projects from newest to oldest.
 
 * Working On _[Lift](https://github.com/aaronjc15128/lift)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
+* Created _[YouTube-Downloader](https://github.com/aaronjc15128/youtube-downloader)_ in
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** using **PyTube**
+
 * Created _[Simple Password Utilities](https://github.com/aaronjc15128/simple_password_utilities)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="12" height="12"> **Dart** with <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="12" height="12"> **Flutter**
 
 * Created _[BrainFuck Interpreter](https://github.com/aaronjc15128/BrainFuck-Interpreter)_ in <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="12" height="12"> **Python** as a terminal app
